@@ -1,0 +1,22 @@
+{
+  "name": "dtc-test-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ptitzler/dtc-test-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ptitzler/dtc-test-module/issues"
+  },
+  "homepage": "https://github.com/ptitzler/dtc-test-module#readme",
+  "dependencies": {
+    "cf-deployment-tracker-client": "https://github.com/ptitzler/cf-deployment-tracker-client-node.git#i9"
+  }
+}
